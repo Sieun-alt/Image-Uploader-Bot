@@ -38,7 +38,7 @@ export const BotController = {
               }],
               [{ 
                 text: "Source Code ↗️", 
-                url: `https://github.com/Private-Bots-Official/Image-Uploader-Bot`
+                url: `https://github.com/sieun-alt/Image-Uploader-Bot`
               }],
             ]
           }
@@ -91,7 +91,7 @@ export const BotController = {
                 }],
                 [{ 
                   text: "Source Code ↗️", 
-                  url: `https://github.com/Private-Bots-Official/Image-Uploader-Bot`
+                  url: `https://github.com/Sieun-alt/Image-Uploader-Bot`
                 }],
               ]
             } : undefined
