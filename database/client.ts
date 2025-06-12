@@ -8,7 +8,7 @@ if (MONGO_URI) {
   try {
     await client.connect(MONGO_URI);
     console.log("✅ MongoDB connected");
-    db = client.database("imageToLinkBot");
+    db = client.database("Picture2LinkBot");
   } catch (error) {
     console.error("❌ MongoDB connection failed:", error);
     throw error; 
